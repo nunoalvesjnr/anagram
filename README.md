@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Cover">
+  <img src="./logo.svg" alt="Cover">
 </p>
 <h1 align="center">Introducing Go</h1>
 <p align="center">Build Reliable, Scalable Programs</p>
